@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Drag-/static/css/main.f855e6bc.css",
-    "main.js": "/Drag-/static/js/main.a3ae0036.js",
-    "static/js/787.d4aba7ab.chunk.js": "/Drag-/static/js/787.d4aba7ab.chunk.js",
-    "index.html": "/Drag-/index.html",
-    "main.f855e6bc.css.map": "/Drag-/static/css/main.f855e6bc.css.map",
-    "main.a3ae0036.js.map": "/Drag-/static/js/main.a3ae0036.js.map",
-    "787.d4aba7ab.chunk.js.map": "/Drag-/static/js/787.d4aba7ab.chunk.js.map"
+    "main.css": "/DND_Project/static/css/main.f855e6bc.css",
+    "main.js": "/DND_Project/static/js/main.3988485e.js",
+    "static/js/787.d4aba7ab.chunk.js": "/DND_Project/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/DND_Project/index.html",
+    "main.f855e6bc.css.map": "/DND_Project/static/css/main.f855e6bc.css.map",
+    "main.3988485e.js.map": "/DND_Project/static/js/main.3988485e.js.map",
+    "787.d4aba7ab.chunk.js.map": "/DND_Project/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.a3ae0036.js"
+    "static/js/main.3988485e.js"
   ]
 }
